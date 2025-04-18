@@ -1,8 +1,7 @@
 
 # 📝 Django Blog Project with User Authentication & Full CRUD
 
-A full-featured blog web application built using the Django web framework. This project allows users to register, log in, and perform full CRUD (Create, Read, Update, Delete) operations on blog posts. It’s perfect for showcasing your Django development skills and backend capabilities.
-
+A full-featured blog web application built using the Django web framework. This project allows users to register, log in, and perform full CRUD (Create, Read, Update, Delete) operations on blog posts. 
 ---
 
 ## 🌟 Features
